@@ -79,3 +79,8 @@
     color: dimgray;
     text-align: center;
 }
+.bg{
+    background-color: #fffcfe;
+    border-radius: 10px !important;
+
+}
